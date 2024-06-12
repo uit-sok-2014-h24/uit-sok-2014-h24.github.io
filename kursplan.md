@@ -14,20 +14,20 @@ Veil: [Veileder i samfunnsøkonomiske analyser](https://dfo.no/sites/default/fil
 |Dato <img width=100/>| Sesjon <img width=80/>   | Tema                                                              | Lærer  | Ressurser <img width=200/>  |
 |--------|----------------|----------------------------------------------------------------------|-----------|--------------------------------------|
 | 16. august|F1   | Innledning - Hva er kostnads-nytte analyse, og hvordan gjennomføres dette? | ES       | GdR Kap 1, Veil Kap. 1, 2, 3.1, 3.2  | 
-|26. august |F3  | Identifisering av virkninger og ringvirkninger  | ES | Veil Kap 3.3, 4.3 vedlegg 1.1 |
-|3. september|F7  |Tallfesting av virkninger og beregning av samfunnsøkonomisk lønnsomhet | ES | Veil Kap 3.4, 3.5 |
-|9. september |F10  | Usikkerhet og virkninger uten markedspris | ES | Veil Kap 4.1, 3.6, 4.4 |
+|26. august |F2  | Identifisering av virkninger og ringvirkninger  | ES | Veil Kap 3.3, 4.3 vedlegg 1.1 |
+|3. september|F3  |Tallfesting av virkninger og beregning av samfunnsøkonomisk lønnsomhet | ES | Veil Kap 3.4, 3.5 |
+|9. september |F4  | Usikkerhet og virkninger uten markedspris | ES | Veil Kap 4.1, 3.6, 4.4 |
 |11. september |**Frist** AK 1  | Innlevering av første arbeidskravbeidskrav |  |Onsdag 11. sept. 1600  |
-|5. september|F2  | Mikroøkomisk fundament for nytte-kostnadsanalyse | TK | BGVW kap. 2,3 |
-|12. september|F5  | Verdsetting av effekter i innsatsmarkedet   | TK |  BGVW kap. 5  | 
-|25. september|F3  | Verdsetting av effekter i sluttproduktmarkedet og sekundærmarkedet | TK |  BGVW kap. 6,7  |
+|5. september|F5  | Mikroøkomisk fundament for nytte-kostnadsanalyse | TK | BGVW kap. 2,3 |
+|12. september|F6  | Verdsetting av effekter i innsatsmarkedet   | TK |  BGVW kap. 5  | 
+|25. september|F7  | Verdsetting av effekter i sluttproduktmarkedet og sekundærmarkedet | TK |  BGVW kap. 6,7  |
 |30. september|F11  | Sammenfatning av effekter  | ES | Veil Kap 3.7, 3.8 |
-|10. oktober|F6  | Diskontering  og versetting uten markedspris | TK | BGVW kap. 15  |
-|11. oktober |F8  | Risiko, sensitivitetsanalyse og opsjonsverdi | TK |  BGVW kap. 11  |
-|14. oktober|F12 | Tips til oppgaven  | ES |  |
-|21. oktober|F13 | Mulig ekstern presentasjon  | ES |  |
+|10. oktober|F8  | Diskontering  og versetting uten markedspris | TK | BGVW kap. 15  |
+|11. oktober |F9  | Risiko, sensitivitetsanalyse og opsjonsverdi | TK |  BGVW kap. 11  |
+|14. oktober|F10 | Tips til oppgaven  | ES |  |
+|21. oktober|F11 | Mulig ekstern presentasjon  | ES |  |
 |25. oktober |**Frist** AK 2  | Innlevering av andre arbeidskrav |  |[Fredag 25. okt. 1600](lenke kommer)  |
-|4. november|F13 | Reserve     |    |    |
+|4. november|F12 | Reserve     |    |    |
 |21. november |**Presentasjon** | Presentasjon av prosjektroppgaven (Rom 02.216) | ES |Påmeldingsskjema kommer)   |
 |9. desember |**Frist** PRO  | Innlevering av prosjektoppgave |  |Kl. 13.00 i [Wiseflow](https://europe.wiseflow.net/){:target='_blank_'}   |
 
