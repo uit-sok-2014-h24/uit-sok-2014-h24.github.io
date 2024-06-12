@@ -28,7 +28,7 @@ Veil: [Veileder i samfunnsøkonomiske analyser](https://dfo.no/sites/default/fil
 |21. oktober|F11 | Mulig ekstern presentasjon  | ES |  |
 |25. oktober |**Frist** AK 2  | Innlevering av andre arbeidskrav |  |Fredag 25. okt. 1600 |
 |4. november|F12 | Reserve     |    |    |
-|21. november |**Presentasjon** | Presentasjon av prosjektroppgaven (Rom 02.216) | ES |Påmeldingsskjema kommer)   |
+|21. november |**Presentasjon** | Presentasjon av prosjektroppgaven (Rom 02.216) | ES |Påmeldingsskjema kommer |
 |9. desember |**Frist** PRO  | Innlevering av prosjektoppgave |  |Kl. 13.00 i Wiseflow |
 
 
