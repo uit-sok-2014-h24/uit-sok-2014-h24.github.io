@@ -14,6 +14,8 @@ Det sentrale spørsmålet, om elektrifisering er samfunnsøkonomisk lønnsomt, e
 * Kostnad ved tiltaket
 * Kostnad ved eventuelle avbøtende tiltak (for eksempel havvind). 
 
+Deres oppgave er å skrive en rapport om dette tiltaket er samfunnsøkonomisk lønnsomt. Formen skal være en samfunnsøkonomisk rapport, tilsvarende de vi har sett på i kurset. 
+
 ## Mappeoppgave 1: 
 
 * Gjør en vurdering av tiltaket ihht. DFØs veileder og identifiser hvilken informasjon som trengs og hvilke forutsetninger som må gjøres
