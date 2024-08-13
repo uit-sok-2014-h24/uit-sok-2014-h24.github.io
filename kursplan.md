@@ -6,10 +6,13 @@ ES - Espen Sirnes
 F = Forelesning     
 AK = Arbeidskrav      
 PRO = Prosjektoppgave    
-    
-Boardman, Anthony E., Vining, Aidan R., Greenberg, David H., Weimer, David L.: "Cost-Benefit Analysis : Concepts and Practice." Prentice Hall. (BGVW)
-Supplementary chapters from other sources (will be uploaded in Canvas)
-Veil: [Veileder i samfunnsøkonomiske analyser](articles/Veileder_samfunnsokonomiske_analyser_nov23.pdf){:target='_blank_'}, Direktoratet for forvaltning og økonomistyring (DFØ), 2023          
+   
+Pensum:
+* Boardman, Anthony E., Vining, Aidan R., Greenberg, David H., Weimer, David L.: "Cost-Benefit Analysis : Concepts and Practice." Prentice Hall. (BGVW)
+* Supplementary chapters from other sources (will be uploaded in Canvas)
+* [Veileder i samfunnsøkonomiske analyser](articles/Veileder_samfunnsokonomiske_analyser_nov23.pdf){:target='_blank_'}, Direktoratet for forvaltning og økonomistyring (DFØ), 2023
+* Et utvalg samfunnsøkonomiske rapporter
+        
 
 |Dato <img width=100/>| Sesjon <img width=80/>   | Tema                                                              | Lærer  | Ressurser <img width=200/>  |
 |--------|----------------|----------------------------------------------------------------------|-----------|--------------------------------------|
