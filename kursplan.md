@@ -9,19 +9,19 @@ PRO = Prosjektoppgave
     
 Boardman, Anthony E., Vining, Aidan R., Greenberg, David H., Weimer, David L.: "Cost-Benefit Analysis : Concepts and Practice." Prentice Hall. (BGVW)
 Supplementary chapters from other sources (will be uploaded in Canvas)
-Veil: [Veileder i samfunnsøkonomiske analyser](https://dfo.no/sites/default/files/2023-06/Veileder-i-samfunnsokonomiske-analyser_210623_DFO.pdf){:target='_blank_'}, Direktoratet for forvaltning og økonomistyring (DFØ), 2023          
+Veil: [Veileder i samfunnsøkonomiske analyser](artikler/Veileder_samfunnsokonomiske_analyser_nov23.pdf){:target='_blank_'}, Direktoratet for forvaltning og økonomistyring (DFØ), 2023          
 
 |Dato <img width=100/>| Sesjon <img width=80/>   | Tema                                                              | Lærer  | Ressurser <img width=200/>  |
 |--------|----------------|----------------------------------------------------------------------|-----------|--------------------------------------|
-| 16. august|F1   | Innledning - Hva er kostnads-nytte analyse, og hvordan gjennomføres dette? | ES       | GdR Kap 1, Veil Kap. 1, 2, 3.1, 3.2  | 
+| 16. august|F1   | Innledning - Hva er kostnads-nytte analyse, og hvordan gjennomføres dette? | ES       | Veil Kap. 1, 2, 3.1, 3.2  | 
 |26. august |F2  | Identifisering av virkninger og ringvirkninger  | ES | Veil Kap 3.3, 4.3 vedlegg 1.1 |
 |3. september|F3  |Tallfesting av virkninger og beregning av samfunnsøkonomisk lønnsomhet | ES | Veil Kap 3.4, 3.5 |
-|9. september |F4  | Usikkerhet og virkninger uten markedspris | ES | Veil Kap 4.1, 3.6, 4.4 |
-|11. september |**Frist** AK 1  | Innlevering av første arbeidskravbeidskrav |  |Onsdag 11. sept. 1600  |
 |5. september|F5  | Mikroøkomisk fundament for nytte-kostnadsanalyse | TK | BGVW kap. 2,3 |
+|9. september |F4  | Usikkerhet og virkninger uten markedspris | ES | Veil Kap 4.1, 3.6, 4.4 |
 |12. september|F6  | Verdsetting av effekter i innsatsmarkedet   | TK |  BGVW kap. 5  | 
+|13. september |**Frist** AK 1  | Innlevering av første arbeidskravbeidskrav |  |Onsdag 11. sept. 1600  |
+|23. september|F11  | Sammenfatning av effekter  | ES | Veil Kap 3.7, 3.8 |
 |25. september|F7  | Verdsetting av effekter i sluttproduktmarkedet og sekundærmarkedet | TK |  BGVW kap. 6,7  |
-|30. september|F11  | Sammenfatning av effekter  | ES | Veil Kap 3.7, 3.8 |
 |10. oktober|F8  | Diskontering  og versetting uten markedspris | TK | BGVW kap. 15  |
 |11. oktober |F9  | Risiko, sensitivitetsanalyse og opsjonsverdi | TK |  BGVW kap. 11  |
 |14. oktober|F10 | Tips til oppgaven  | ES |  |
