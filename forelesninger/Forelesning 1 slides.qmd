@@ -184,9 +184,9 @@ P50, P15 og P85 er kostnadsanslag hvor sannsynligheten for at kostnadene blir la
 
 * Fordeling i kun én av rapportene i pensum
 * Kan tyde på at ikke alltid anses relevant/viktig
-* Står i veilederen.
-  * «Formålet [...] å beskrive [...] virkningene [...] mellom ulike grupper [...]»
-  * « [...]  tas med som en tilleggsanalyse [...] »
+* Fra veilederen:
+  * Formålet er å beskrive virkningene mellom ulike grupper
+  * Tas med som en tilleggsanalyse
 
 
 
