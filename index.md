@@ -75,6 +75,7 @@ For henvendelser av administrative art send e-post til: <hhcampus@hjelp.uit.no>.
 
 articles/Kommunedelplan_KU_ny_tverrforbindelse_ny_kval%C3%B8yforbindelse.pdf
 *Analyser*        
+- [Elektrifisering av olje- og gassektoren – har det global klimaeffekt?](articles/thema-rapport-2022-23_elektrifisering.pdf){:target="blank"} Thema Consulting, 2022
 - [Ny kvaløyaforbindelse](articles/Kommunedelplan_KU_ny_tverrforbindelse_ny_kval%C3%B8yforbindelse.pdf){:target="blank"} Statens Vegvesen, 2015
 - [Nordlys vindpark](articles/Nordlys vindpark-ringvirkningsanalyse.pdf){:target="blank"} Ny Analyse, 2018
 - [Samfunnsøkonomisk analyse av lisensordning for pengespill](/articles/2018-68-Samfunnsøkonomisk-analyse-av-lisensordning-for-pengespill-1.pdf){:target="blank"}, Menon Economics, 2018.
