@@ -11,7 +11,7 @@ format:
     #multiplex: true
     chalkboard: true
     self-contained: false
-    footer: "[uit-sok-2209-v24.github.io/](https://uit-sok-2209-v24.github.io/)"
+    footer: "[uit-sok-2014-v24.github.io/](https://uit-sok-2014-v24.github.io/)"
     slide-number: c/t
     title-slide-attributes:
       data-background-image: img/title_slide.png
@@ -83,7 +83,7 @@ Kostnad:
 * Sett opp en disposisjon/arbeidsplan (bruk veilederen)
 
 # Obligatorisk innlevering 2 (Fase 3-5):
-* Bruke det du har lært til å sette opp en nytte-kostnadsanalyse
+* Bruke det du har lært til å sette opp en nytte-kostnadsberegning
 * Beregne nåverdi av prosjektet
 
 # Endelig innlevering (Fase 1-8):
@@ -96,10 +96,10 @@ Kostnad:
 
 # Nytte-kostnadsanalyse
 
-* Utredning av offentlige prosjekter som s
+* Utredning av offentlige prosjekter
 * Skal hjelpe å prioritere prosjekter. 
-* Faglig og objektiv som mulig. 
-* DFØ har laget veileder
+* Faglig og objektiv 
+* [DFØ har laget veileder](https://dfo.no/fagomrader/utredning-og-analyse-av-statlige-tiltak/samfunnsokonomiske-analyser/veileder-i-samfunnsokonomiske-analyser)
 ![](img/cost-benefit.webp){ width=50% .float-right }
 
 
@@ -117,10 +117,10 @@ Kostnad:
 
 # Hva brukes en samfunnsøkonomisk analyse til?
 
-* På alle typer offentlige tiltak: reguleringer, investeringer, tjenesteproduksjon, reformer osv.
-* På tiltak utført av private aktører på oppdrag for staten
+* Alle typer offentlige tiltak: reguleringer, investeringer, tjenesteproduksjon, reformer osv.
+* Tiltak utført av private aktører på oppdrag for staten
 * Innenfor alle sektorer i samfunnet
-* På prioriteringer innenfor en virksomhets ansvarsområder, innad i en sektor eller på tvers av ulike sektorer
+* Prioriteringer innenfor en virksomhets ansvarsområder, innad i en sektor eller på tvers av ulike sektorer
 
 
 # En samfunnsøkonomisk analyse skal
