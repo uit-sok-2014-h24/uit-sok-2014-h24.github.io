@@ -73,7 +73,7 @@ For henvendelser av administrative art send e-post til: <hhcampus@hjelp.uit.no>.
 [Prinsipper og krav ved utarbeidelse av samfunnsøkonomiske analyser](/articles/rundskriv_109_2021.pdf){:target="blank"}, Rundskriv R-106 fra Finansdepartementet, 2021      
 [Veileder i samfunnsøkonomiske analyser](https://dfo.no/veileder-i-samfunnsokonomiske-analyser/){:target="blank"}, Direktoratet for forvaltning og økonomistyring (DFØ), Juni 2023.          
 
-articles/Kommunedelplan_KU_ny_tverrforbindelse_ny_kval%C3%B8yforbindelse.pdf
+
 *Analyser*        
 - [Elektrifisering av olje- og gassektoren – har det global klimaeffekt?](articles/thema-rapport-2022-23_elektrifisering.pdf){:target="blank"} Thema Consulting, 2022
 - [Ny kvaløyaforbindelse](articles/Kommunedelplan_KU_ny_tverrforbindelse_ny_kval%C3%B8yforbindelse.pdf){:target="blank"} Statens Vegvesen, 2015
