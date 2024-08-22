@@ -66,7 +66,7 @@ For henvendelser av administrative art send e-post til: <hhcampus@hjelp.uit.no>.
 
 [Leganto](https://bibsys-c.alma.exlibrisgroup.com/leganto/readinglist/){:target="blank"}  
 
-*Hovedbok*: Introduction to cost-benefit analysis, 2. utg, 2021, Ginés de Rus.        
+*Hovedbok*: Boardman, Anthony E., Vining, Aidan R., Greenberg, David H., Weimer, David L.: "Cost-Benefit Analysis : Concepts and Practice." Prentice Hall (5th edition), ISBN: 9781108415996.        
 
 *Norske veiledere*        
 
