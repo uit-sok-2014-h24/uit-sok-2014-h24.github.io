@@ -8,7 +8,7 @@ AK = Arbeidskrav
 PRO = Prosjektoppgave    
    
 Pensum:
-* Boardman, Anthony E., Vining, Aidan R., Greenberg, David H., Weimer, David L.: "Cost-Benefit Analysis : Concepts and Practice." Prentice Hall. (BGVW)
+* Boardman, Anthony E., Vining, Aidan R., Greenberg, David H., Weimer, David L.: "Cost-Benefit Analysis : Concepts and Practice." Prentice Hall (5th edition), ISBN: 9781108415996. (BGVW)
 * Supplementary chapters from other sources (will be uploaded in Canvas)
 * [Veileder i samfunnsøkonomiske analyser](articles/Veileder_samfunnsokonomiske_analyser_nov23.pdf){:target='_blank_'}, Direktoratet for forvaltning og økonomistyring (DFØ), 2023
 * Et utvalg samfunnsøkonomiske rapporter ([se under pensum på forsiden](https://uit-sok-2014-h24.github.io/index.html))
