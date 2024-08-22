@@ -83,6 +83,8 @@ articles/Kommunedelplan_KU_ny_tverrforbindelse_ny_kval%C3%B8yforbindelse.pdf
 - [Samfunnsøkonomisk analyse av Nye servicejobber](/articles/va-rapport_2021-37_nye_servicejobber.pdf){:target="blank"}, Vista Analyse, 2021
 - [Nytten av idrettsanlegg og betydning for fysisk aktivitet](/articles/va-rapport_2022-20_nytten_av_idrettsanalegg.pdf){:target="blank"}, Vista Analyse, 2022
 - [Nyttekostanalyse Nord-Norgebanen](/articles/vedlegg-11-nyttekostrapport-nnb.pdf){:target="blank"}, Jernbanedirektoratet, 2019
+- [Felles fakturerering av strøm - alt på én strømregning](/articles/Oslo-Economics-fakturering-strøm-2017.pdf){:target="blank"}, Oslo Economics 2017
+- [Samfunnsøkonomisk analyse av utenforskap](/articles/Oslo Economics utenforskap 2021.pdf){:target="blank"}, Oslo Economics 2021
 
 
 
