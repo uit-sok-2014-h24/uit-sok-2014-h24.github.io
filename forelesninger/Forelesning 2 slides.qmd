@@ -59,13 +59,43 @@ Nyttevirkninger er positive virkninger, effekter, fordeler eller gevinster.
 * redusert trygghetsfølelse ved mindre politi i gatene
 * tapt tid i arbeid og opplevd stress når barnehagetilbudet reduseres
 
+# Viktige prinsipper I - [veileder]( https://www.regjeringen.no/no/tema/okonomi-og-budsjett/statlig-okonomistyring/samfunnsokonomiske-analyser/id438830/)
+
+* Markedspriser skal brukes når mulig
+  * evt. avledede priser
+* Realpriser skal brukes
+* Verdi av tid
+  * Arbeidstid → brutto lønnskostnader
+  * Fritid → netto lønnsinntekt
+* Verdien av et statistisk liv (VSL) = 55 mill
+* Veridi av miljøgoder avledes av VSL
+* Klimagassutslipp → karbonpris
+* Kalkulasjonsrente 4 %
+
+# Viktige prinsipper II - [veileder]( https://www.regjeringen.no/no/tema/okonomi-og-budsjett/statlig-okonomistyring/samfunnsokonomiske-analyser/id438830/)
+
+* Skattekostnad: 20 %
+  * Også brukerbetaling begrunnet i finansieringsbehov
+* Usikkerhet: Forventningsrett estimat - følsomhetsanalyser
+  * Irreversible virkninger - usikkerhet mht. virkningene i seg selv
+* Betalingsvilje>samf. øk. kostnad → Lønnsomt.
+
+# Tilleggsanalyser:
+
+* Fordelingsvirkninger
+  * Interessekonfliketer
+  * Berørte grupper
+  * Mål om fordeling vs. tiltak
+* Netto ringvirkninger
+  * Ikke med i nåverdiberegningen
+  * Kan legges ved i en tilleggsanalyse
+
 # Omfordeling
 
 * Omfordeling → ingen reell effekt 
 * Økt nytte for én gruppe → kostnad for en annen
 * Endret adferd → effekt
 * dvs. økt skatt pga økt aktivitet → ingen samf. øk effekt
-* skattekostnad pga. effektivitetstap skal tas med
 
 
 
