@@ -18,7 +18,7 @@ Pensum:
 |--------|----------------|----------------------------------------------------------------------|-----------|--------------------------------------|
 | 16. august|F1   | Innledning - Hva er kostnads-nytte analyse, og hvordan gjennomføres dette? | ES       | [Veil Kap. 1, 2, 3.1, 3.2](forelesninger/Forelesning 1 slides.html)  | 
 |23. august |F2  | Identifisering av virkninger og ringvirkninger  | ES | [Veil Kap 3.3, 4.3 vedlegg 1.1](forelesninger/Forelesning 2 slides.html) |
-|3. september|F3  |Tallfesting av virkninger og beregning av samfunnsøkonomisk lønnsomhet | ES | Veil Kap 3.4, 3.5 |
+|3. september|F3  |Tallfesting av virkninger og beregning av samfunnsøkonomisk lønnsomhet | ES | [Veil Kap 3.4, 3.5](forelesninger/Forelesning 3 slides.html) |
 |5. september|F4  | Mikroøkomisk fundament for nytte-kostnadsanalyse | TK | BGVW kap. 2,3 |
 |9. september |F5  | Usikkerhet og virkninger uten markedspris | ES | Veil Kap 4.1, 3.6, 4.4 |
 |12. september|F6  | Verdsetting av effekter i innsatsmarkedet   | TK |  BGVW kap. 5  | 
