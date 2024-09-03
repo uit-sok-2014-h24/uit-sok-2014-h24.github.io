@@ -39,6 +39,7 @@ from: markdown+emoji
 * Institusjoner
 * Personer
 * Bygg
+* ++ ...
   
 
 
@@ -48,6 +49,7 @@ from: markdown+emoji
 * Naturlige eksperimenter
 * Lab-eksperimenter
 * Generell empirisk og teroretisk kunnskap
+* Tidligere analyser
 
 
 # Enhetspris
@@ -55,7 +57,7 @@ from: markdown+emoji
 * Fritid: Netto inntekt etter skatt
 * Størst mulig grad markedspriser
 * Vareinnsats: Pris eksl. toll + avgifter, inkl. avgift+kvotepris som er korreksjon
-* Kvotekostnad uten CO"-avgift brukes til kostnad ved klimagassutslipp
+* Kvotekostnad uten CO-avgift brukes til kostnad ved klimagassutslipp
 * Verdien på et statistisk liv - 55 mill.
 
 # Beregn samfunnsøknomisk effekt
