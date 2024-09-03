@@ -25,8 +25,8 @@ from: markdown+emoji
 
 
 * Alle positive og negative virkninger tallfestes så langt det lar seg gjøre
-* Dersom betalingsvilligheten for alle nyttevirkninger> summen av kostnadene:
-  * → amfunnsøkonomisk lønnsomt.
+* Dersom betalingsvilligheten > summen av kostnadene:
+  * → Samfunnsøkonomisk lønnsomt.
 * Kostnadene ⇔ verdien av det en må gi opp av andre ting (alternativkostnad)
 * Nytten ⇔ hvor mye en er villig til å betale (folks samlede betalingsvillighet)
 * Flest mulig virkninger fastsettes i kroner
