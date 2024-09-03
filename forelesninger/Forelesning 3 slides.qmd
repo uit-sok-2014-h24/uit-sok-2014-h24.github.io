@@ -33,7 +33,7 @@ from: markdown+emoji
 
 # Finn effekt, kvanta og pris, for å tallfeste virkningene
 
-![Samfunnsøkonomisk verdi](img/samfokverdi.jpg)
+![Samfunnsøkonomisk verdi](img/samfokverdi.png)
 
 # Kvantum
 * Institusjoner
@@ -60,7 +60,7 @@ from: markdown+emoji
 
 # Beregn samfunnsøknomisk effekt
 
-![Samfunnsøkonomisk verdi](img/samfokverdi.jpg)
+![Samfunnsøkonomisk verdi](img/samfokverdi.png)
 
 
 # Skattefinansieringskostnad
