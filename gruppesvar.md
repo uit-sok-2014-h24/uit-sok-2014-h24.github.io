@@ -23,7 +23,7 @@
   * Næringstrafikk
  
 ## Nordlys vinpark
-# Virkninger
+#### Virkninger
 * Ny industri
 * Enklere turmuligheter
 * Jobber
@@ -31,7 +31,7 @@
 
 * Støy
 
-# Nordnorgebanen
+## Nordnorgebanen
 ### Virkninger
 * Binder sammmen norge
 * Gods-transport
@@ -52,7 +52,7 @@
   
 ## Pengespill
 
-# Virkninger
+### Virkninger
 * Skatteinnekter
 * 2x norsk tipping
 * Økning i utenlandsk spilling
