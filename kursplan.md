@@ -19,13 +19,12 @@ Pensum:
 | 16. august|F1   | Innledning - Hva er kostnads-nytte analyse, og hvordan gjennomføres dette? | ES       | [Veil Kap. 1, 2, 3.1, 3.2](forelesninger/Forelesning 1 slides.html)  | 
 |23. august |F2  | Identifisering av virkninger og ringvirkninger  | ES | [Veil Kap 3.3, 4.3 vedlegg 1.1](forelesninger/Forelesning 2 slides.html) |
 |3. september|F3  |Tallfesting av virkninger og beregning av samfunnsøkonomisk lønnsomhet | ES | [Veil Kap 3.4, 3.5](forelesninger/Forelesning 3 slides.html) |
-|5. september|F4  | Mikroøkomisk fundament for nytte-kostnadsanalyse | TK | BGVW kap. 2,3 |
+|5. september|F4  | Mikroøkomisk fundament for nytte-kostnadsanalyse | TK | BGVW kap. 2,3 [Lecture note](forelesninger/L1.pdf) |
 |9. september |F5  | Usikkerhet og virkninger uten markedspris | ES | Veil Kap 4.1, 3.6, 4.4 |
-|12. september|F6  | Verdsetting av effekter i innsatsmarkedet   | TK |  BGVW kap. 5  | 
+|12. september|F6  | Verdsetting av effekter i innsatsmarkedet, sluttproduktmarkedet og sekundærmarkedet | TK |  BGVW kap. 5, 6, 7 [Lecture note](forelesninger/L2.pdf) | 
 |13. september |**Frist** AK 1  | Innlevering av første arbeidskravbeidskrav |  |Onsdag 11. sept. 1600  |
 |23. september|F7  | Sammenfatning av effekter  | ES | Veil Kap 3.7, 3.8 |
-|25. september|F8  | Verdsetting av effekter i sluttproduktmarkedet og sekundærmarkedet | TK |  BGVW kap. 6,7  |
-|10. oktober|F9  | Diskontering  og versetting uten markedspris | TK | BGVW kap. 15  |
+|25. september|F8  | Diskontering  og versetting uten markedspris | TK |  BGVW kap. 15  |
 |11. oktober |F10  | Risiko, sensitivitetsanalyse og opsjonsverdi | TK |  BGVW kap. 11  |
 |14. oktober|F11 | Tips til oppgaven  | ES |  |
 |21. oktober|F12 | Mulig ekstern presentasjon  | ES |  |
