@@ -25,11 +25,11 @@ Pensum:
 |13. september |**Frist** AK 1  | Innlevering av første arbeidskravbeidskrav |  |Onsdag 11. sept. 1600  |
 |23. september|F7  | Sammenfatning av effekter  | ES | Veil Kap 3.7, 3.8 |
 |25. september|F8  | Diskontering  og versetting uten markedspris | TK |  BGVW kap. 15  |
-|11. oktober |F10  | Risiko, sensitivitetsanalyse og opsjonsverdi | TK |  BGVW kap. 11  |
-|14. oktober|F11 | Tips til oppgaven  | ES |  |
-|21. oktober|F12 | Mulig ekstern presentasjon  | ES |  |
+|11. oktober |F9  | Risiko, sensitivitetsanalyse og opsjonsverdi | TK |  BGVW kap. 11  |
+|14. oktober|F10 | Tips til oppgaven  | ES |  |
+|21. oktober|F11 | Mulig ekstern presentasjon  | ES |  |
 |25. oktober |**Frist** AK 2  | Innlevering av andre arbeidskrav |  |Fredag 25. okt. 1600 |
-|4. november|F13 | Reserve     |    |    |
+|4. november|F12 | Reserve     |    |    |
 |21. november |**Presentasjon** | Presentasjon av prosjektroppgaven (Rom 02.216) | ES |Påmeldingsskjema kommer |
 |9. desember |**Frist** PRO  | Innlevering av prosjektoppgave |  |Kl. 13.00 i Wiseflow |
 
