@@ -108,7 +108,6 @@ Beregn netto nåverdi
 1. Bruk nåverdimetoden for prissatte virkninger →  ranger tiltakene
 2. Bruk verdimatrisemetoden til å sammenstille ikke-prissatte virkninger
 3. Ranger tiltakene basert på prissatte og ikke-prissatte virkninger
-
-Beregn netto nåverdi
+4. Hva er netto nåverdi?
 
 
