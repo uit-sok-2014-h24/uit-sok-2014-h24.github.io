@@ -175,7 +175,8 @@ Bruk det dere lærte i sok-1005:
 
 # Oppgave:
 
-Se på rapportene
+Se på rapporten du har
 
-* Finn ett eksempel på verdivurderinger der det ikke finnes noe faktisk marked, eller foreslå hvor forfatterne kunne ha gjort verdivurderinger
-* Hvilken metode har forfatterne brukt på å finne verdien?
+  1) Finn ett eksempel på verdivurderinger der det ikke finnes noe faktisk marked, eller foreslå hvor forfatterne kunne ha gjort verdivurderinger
+  2) Hvilken metode har forfatterne brukt på å finne verdien?
+  3) Hvordan er usikkerhet tatt hensyn til?

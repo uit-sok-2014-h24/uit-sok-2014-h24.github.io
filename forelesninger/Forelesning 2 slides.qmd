@@ -205,5 +205,7 @@ print(f"Likevektsvolum med eksterne effekter er {x_eq_ext}")
 
 
 # Oppgave
-* Les gjennom rapporten dere har valgt?
+
+Les gjennom rapporten dere har valgt
+
 * Hva er tiltaket, og hva er virkningen?
