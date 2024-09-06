@@ -159,7 +159,8 @@ from: markdown+emoji
 * forskjellige generasjoner
 * kjønn
 
-##Eksempel på fordelingsanalyse:
+# Eksempel på fordelingsanalyse:
+
 | Kvintil                    | Beregnet overskudd ved tiltaket |
 |----------------------------|---------------------------------|
 | 1. kvintil                 | –45 000 000                     |
@@ -170,7 +171,7 @@ from: markdown+emoji
 | **Summert over alle grupper**  | **250 000 000**             |
 
 
-## Gegografisk fordeling
+# Gegografisk fordeling
 ![Kart](img/tromso.png)
 
 [Lenke til notebooks](https://espensirnes.github.io/notebooks/html/11%20-%20interaktive%20websider.html)
