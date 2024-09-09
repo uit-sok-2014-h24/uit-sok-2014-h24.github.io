@@ -22,6 +22,26 @@
   * Forhold for gående og syklende
   * Næringstrafikk
  
+### Nåverdi
+* 2016 prisnivå
+* 2050
+10 alternative nåverdier
+Alle har negativ netto nytte
+Dyreste alternativet 6 mrd.
+Billigste 1mrd
+-30 øre/krone til -98 øre per krone
+
+### Ikke prissatte konsekvenser
+* Miljø
+* Støy
+* Luftforurenings
+* B3 positive effekter
+* Nye veger er generelt ikke miljøvennlig
+  
+### Konklusjon
+* Ikke pissatte konsekvener avgjør - alt med kollektivtrafikk og myke trafikanter m/ bru velges
+  
+ 
 ## Nordlys vinpark
 #### Virkninger
 * Ny industri
@@ -49,6 +69,20 @@
 * Sverige-Finland (utnefor norge)
 * 40 års perspektiv
 
+### Nåverdi
+* Fauske - Tromsø: - 93 mrd
+* Fauske - Tromsø (Bjerkvik-Harstad): - 109 mrd
+* Fauske - Narvik: - 48 mrd
+  * Minst tap (mest godts)
+* Narvik - Tromsø: - 46 mrd
+3% gir nytte
+
+### Ikke prissatte virkninger
+* Få områder har stor konflikt
+* stor konflikt landskapsbilde
+* Største konflikt miljømessig
+
+Har ikke så mye å si.
   
 ## Pengespill
 
@@ -57,6 +91,14 @@
 * 2x norsk tipping
 * Økning i utenlandsk spilling
 * 
-
- 
+### Nåverdi
+* Tap NT: 989 mill
+* 15%: 1 039 mill, 20% 1 155 mill, 25%: 1 156
+* kostnader 45 mill (regulering)
+* + mindre "skattkostnad"
+  + 
+### Ikke prissatte konsekvenser
+* Problemspilling og konsumentoverskudd
+* Norsk idrett. media og markedsføring -  svak pos
+Endrer ikke konklusjon
 
