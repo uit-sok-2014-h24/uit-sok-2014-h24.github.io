@@ -20,7 +20,7 @@ Deres oppgave er å skrive en rapport om dette tiltaket er samfunnsøkonomisk l�
 *Dere kan jobbe i grupper på intil 3, eller individuelt. Om dere leverer individuelt lager dere bare en énmannsgruppe.*
 
 
-## Mappeoppgave 1: Frist 11. september
+## Mappeoppgave 1: Frist 11. september kl. 1600
 
 * Gjør en vurdering av tiltaket ihht. DFØs veileder og identifiser hvilken informasjon som trengs og hvilke forutsetninger som må gjøres
 * Innhent informasjon
@@ -28,7 +28,7 @@ Deres oppgave er å skrive en rapport om dette tiltaket er samfunnsøkonomisk l�
 
 Leveres som pdf i Canvas
 
-## Mappeoppgave 2: Frist 25. otober
+## Mappeoppgave 2: Frist 25. otober kl. 1600
 
 * Bruke det du har lært til å sette opp en nytte-kostnadsanalyse
 * Beregne nåverdi av prosjektet
