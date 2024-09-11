@@ -22,7 +22,7 @@ Pensum:
 |5. september|F4  | Mikroøkomisk fundament for nytte-kostnadsanalyse | TK | BGVW kap. 2,3 [Lecture note](forelesninger/L1.pdf) |
 |9. september |F5  | Usikkerhet og virkninger uten markedspris | ES | [Veil Kap 4.1, 3.6, 4.4](forelesninger/Forelesning 4 slides.html) |
 |12. september|F6  | Verdsetting av effekter i innsatsmarkedet, sluttproduktmarkedet og sekundærmarkedet | TK |  BGVW kap. 5, 6, 7 [Lecture note](forelesninger/L2.pdf) | 
-|13. september |**Frist** AK 1  | Innlevering av første arbeidskravbeidskrav |  |Onsdag 11. sept. 1600  |
+|13. september |**Frist** AK 1  | Innlevering av første arbeidskravbeidskrav |  |Fredag 13. sept. 1600  |
 |23. september|F7  | Sammenfatning av effekter  | ES | Veil Kap 3.7, 3.8 |
 |25. september|F8  | Diskontering  og versetting uten markedspris | TK |  BGVW kap. 9, 10, 15 [Lecture note](forelesninger/L3.pdf) |
 |11. oktober |F9  | (Digital) Risiko, sensitivitetsanalyse og opsjonsverdi | TK |  BGVW kap. 11 [Lecture note](forelesninger/L4.pdf) |
