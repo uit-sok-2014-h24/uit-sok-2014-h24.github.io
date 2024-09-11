@@ -16,6 +16,10 @@ Det sentrale spørsmålet, om elektrifisering er samfunnsøkonomisk lønnsomt, e
 
 Deres oppgave er å skrive en rapport om dette tiltaket er samfunnsøkonomisk lønnsomt. Formen skal være en samfunnsøkonomisk rapport, tilsvarende de vi har sett på i kurset. 
 
+
+*Dere kan jobbe i grupper på intil 3, eller individuelt. Om dere leverer individuelt lager dere bare en énmannsgruppe.*
+
+
 ## Mappeoppgave 1: Frist 11. september
 
 * Gjør en vurdering av tiltaket ihht. DFØs veileder og identifiser hvilken informasjon som trengs og hvilke forutsetninger som må gjøres
