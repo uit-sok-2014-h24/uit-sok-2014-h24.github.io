@@ -124,10 +124,10 @@ from: markdown+emoji
 
 # Forskjellige typer realopsjoner
 
-* Utsatt beslutning: 
-* Trinnvis utbygging: 
-* Innbygd fleksibilitet: 
-* Avslutning av tiltak: 
+* Utsatt beslutning
+* Trinnvis utbygging
+* Innbygd fleksibilitet
+* Avslutning av tiltak
 
 
 # Fordelingsvirkninger
@@ -148,6 +148,8 @@ from: markdown+emoji
 * privat næringsliv
 * privatpersoner
 * brukere og ikke-brukere av et offentlig tiltak
+
+# Hvilke fordelingsvirkninger er relevante?
 * sosioøkonomiske grupper, inndelt etter for eksempel 
 	* inntektsnivå
 	* sivil status
@@ -160,14 +162,16 @@ from: markdown+emoji
 * kjønn
 
 # Eksempel på fordelingsanalyse:
+* Tiltak forventes å gi et samfunnsøkonomisk overskudd på 250 mill.
+* Deler inn i fem inntektsgrupper.
 
-| Kvintil                    | Beregnet overskudd ved tiltaket |
+| Kvintil (inntekt)          | Beregnet overskudd ved tiltaket |
 |----------------------------|---------------------------------|
-| 1. kvintil                 | –45 000 000                     |
+| 1. kvintil (lavest)        | –45 000 000                     |
 | 2. kvintil                 | –60 000 000                     |
 | 3. kvintil                 | 20 000 000                      |
 | 4. kvintil                 | 150 000 000                     |
-| 5. kvintil                 | 185 000 000                     |
+| 5. kvintil (høyest)        | 185 000 000                     |
 | **Summert over alle grupper**  | **250 000 000**             |
 
 
@@ -182,6 +186,7 @@ from: markdown+emoji
 
 Se på rapporten du har
 
-  1) Finn ett eksempel på verdivurderinger der det ikke finnes noe faktisk marked, eller foreslå hvor forfatterne kunne ha gjort verdivurderinger
+  1) Finn ett eksempel på verdivurderinger i rapporten der det ikke finnes noe faktisk marked
+     * Om du ikke finner noen, finnes det verdier rapporten ikke tar med, som den potensielt kunne anslått?
   2) Hvilken metode har forfatterne brukt på å finne verdien?
   3) Hvordan er usikkerhet tatt hensyn til?
