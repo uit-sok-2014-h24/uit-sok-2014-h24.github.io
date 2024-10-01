@@ -27,7 +27,7 @@ Pensum:
 |25. september|F8  | Diskontering  og versetting uten markedspris | TK |  BGVW kap. 9, 10, 15 [Lecture note](forelesninger/L3.pdf) |
 |11. oktober |F9  | (Digital) Risiko, sensitivitetsanalyse og opsjonsverdi | TK |  BGVW kap. 11 [Lecture note](forelesninger/L4.pdf) |
 |14. oktober|F10 | Tips til oppgaven  | ES |  |
-|21. oktober|F11 | Mulig ekstern presentasjon  | ES |  |
+|21. oktober|F11 | Ekstern presentasjon med Equinor  | ES |  |
 |25. oktober |**Frist** AK 2  | Innlevering av andre arbeidskrav |  |Fredag 25. okt. 1600 |
 |4. november|F12 | Reserve     |    |    |
 |21. november |**Presentasjon** | Presentasjon av prosjektroppgaven (Rom 02.216) | ES |Påmeldingsskjema kommer |
