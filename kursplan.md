@@ -25,7 +25,7 @@ Pensum:
 |13. september |**Frist** AK 1  | Innlevering av første arbeidskravbeidskrav |  |Fredag 13. sept. 1600  |
 |23. september|F7  | Sammenfatning av effekter  | ES | Veil Kap 3.7, 3.8 |
 |25. september|F8  | Diskontering  og versetting uten markedspris | TK |  BGVW kap. 9, 10, 15 [Lecture note](forelesninger/L3.pdf) |
-|11. oktober |F9  | (Digital [Zoom Link](https://oslomet.zoom.us/j/67519179195?pwd=AZ0s0WpPzo77mFktBf3HAchJXVBp8Y.1) Meeting ID: 675 1917 9195 Password: 378310) Risiko, sensitivitetsanalyse og opsjonsverdi | TK |  BGVW kap. 11 [Lecture note](forelesninger/L4.pdf) |
+|11. oktober |F9  | Risiko, sensitivitetsanalyse og opsjonsverdi | TK |  BGVW kap. 11 [Lecture note](forelesninger/L4.pdf) (Digital [Zoom Link](https://oslomet.zoom.us/j/67519179195?pwd=AZ0s0WpPzo77mFktBf3HAchJXVBp8Y.1) Meeting ID: 675 1917 9195 Password: 378310) |
 |14. oktober|F10 | Tips til oppgaven  | ES |  |
 |21. oktober|F11 | Ekstern presentasjon med Equinor  | ES |  |
 |25. oktober |**Frist** AK 2  | Innlevering av andre arbeidskrav |  |Fredag 25. okt. 1600 |
