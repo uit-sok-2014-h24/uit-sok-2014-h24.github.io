@@ -40,7 +40,15 @@ Billigste 1mrd
   
 ### Konklusjon
 * Ikke pissatte konsekvener avgjør - alt med kollektivtrafikk og myke trafikanter m/ bru velges
-  
+
+### Verdivurdering
+Diskusjon om verdien av natur og kulturminner.
+Bruker verdsetting i ander rapporter
+Kommer inn som ikke-prissatte konsekvenser.
+Ikke med i nåverdiberegninger.
+
+### Usikkerhet
+Ingen.
  
 ## Nordlys vinpark
 #### Virkninger
@@ -50,6 +58,11 @@ Billigste 1mrd
   Neg
 
 * Støy
+
+### Naturinngrep
+Ingen forsøk på kvantifisering av Naturingrep. 
+### Usikkerhetsanalyse
+Kun generlt at det er usikkerhet, ingen konkret analyse
 
 ## Nordnorgebanen
 ### Virkninger
@@ -83,6 +96,13 @@ Billigste 1mrd
 * Største konflikt miljømessig
 
 Har ikke så mye å si.
+
+### Verdivurdering uten marked:
+1. Naturingrep
+
+### Usikkerhet
+Scenarioanalyse.
+
   
 ## Pengespill
 
@@ -101,4 +121,11 @@ Har ikke så mye å si.
 * Problemspilling og konsumentoverskudd
 * Norsk idrett. media og markedsføring -  svak pos
 Endrer ikke konklusjon
+
+### Kvanifisere virkning
+Ulike skattesatser
+Vanskelig å finne presise tall
+
+### Usikkerhetsanalyse
+Usikkerhet om markedsandeler.
 
