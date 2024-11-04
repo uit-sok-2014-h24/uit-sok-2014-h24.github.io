@@ -6,7 +6,7 @@ title: Tips til oppgaven
 # Tips til oppgaven
 
 ## Kilder i oppgaven
-Et lite tips til oppgaven: Alle opplysninger av betydning bør ha en kilde som er enkel å finne. Bruk url i referanse om dere kan. Hvis kilden ikke er enkelt tilgjengelig (ikke finnes åpent på nettet), bruk skjermdump. Det må være enkelt for oss som skal lese den å verifisere alle opplysninger av betydning. 
+Alle opplysninger av betydning bør ha en kilde som er enkel å finne. Bruk url i referanse om dere kan. Hvis kilden ikke er enkelt tilgjengelig (ikke finnes åpent på nettet), bruk skjermdump. Det må være enkelt for oss som skal lese den å verifisere alle opplysninger av betydning. 
 
 Regnearkvedlegg bør også inneholde kildehenvisning. Enkel løsning for å sjekke faktagrunnlaget gir +poeng. 
 
