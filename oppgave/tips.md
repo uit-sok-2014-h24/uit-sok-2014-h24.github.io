@@ -12,6 +12,8 @@ Regnearkvedlegg bør også inneholde kildehenvisning. Enkel løsning for å sjek
 
 God håndtering av kilder vil være avgjørende for karakteren. I en offentlig rapport vil leseren ønske at det er enkelt å ettergå opplysningene. 
 
+Husk å være nøye med siteringer, og siter på korrekt måte i dokumentet (ikke url i teksten, men i literaturlisten). I Exceldokumentet kan dere godt ha klikkbare lenker, så det er enkelt å finne grunnlaget for tallene. 
+
 
 ## Parisavtalen og kvotepliktig sektor
 Det er veldig mange som ikke tar med at mindre utslipp på sokkelen i utgangspunktet ikke reduserer globale utslipp, siden kvotene som ikke kjøpes, vil bli kjøpt av noen andre. Så finnes det argumenter for at mindre etterspørsel etter kvoter og lavere priser kan ha en viss dempende effekt på antall kvoter som EU til slutt vil tillate.
@@ -19,6 +21,8 @@ Det er veldig mange som ikke tar med at mindre utslipp på sokkelen i utgangspun
 Det er også slik at utslipp innenfor kvotepliktig sektor er håndert i hht. Parisavtalen. 
 
 Det høres kanskje rart ut at kvotesystemet i utgangspunktet gjør netto reduksjon av utslipp blir null, men poenget med kvotesystemet er å ta de utslippene som koster minst, først, da det er mest effektivt. Det totale utslippsnivået er allerede bestemt av EU, og er ihtt. Parisavtalen. 
+
+Begrunnelsen for elektrifisering er fortsatt redusert CO2-utslipp, men det er snakk om et politisk ønske om å kutte innenlandske utslipp. 
 
 
 ## Themarapporten
